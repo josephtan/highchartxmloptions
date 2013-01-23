@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<chart>
+	<chartType>line</chartType>
+	<chartTitle>My Graph 1</chartTitle>
+	<month>
+	
+			<name>Jan 11</name>
+			<name>Feb 11</name>
+			<name>Mar 11</name>
+			<name>Apr 11</name>
+			<name>May 11</name>
+			<name>Jun 11</name>
+			<name>July 11</name>
+			<name>Aug 11</name>
+			<name>Sep 11</name>
+			<name>Oct 11</name>
+			<name>Nov 11</name>
+			<name>Dec 11</name>
+			<name>Jan 12</name>
+			<name>Feb 12</name>
+			<name>Mar 12</name>
+			<name>Apr 12</name>
+			<name>May 12</name>
+			<name>Jun 12</name>
+			<name>July 12</name>
+			<name>Aug 12</name>
+	
+	</month>
+	<press>	
+			<name>press</name>
+			<data>363</data>
+			<data>414</data>
+			<data>416</data>
+			<data>392</data>
+			<data>594</data>
+			<data>530</data>
+			<data>524</data>
+			<data>698</data>
+			<data>492</data>
+			<data>550</data>
+			<data>674</data>
+			<data>709</data>
+			<data>396</data>
+			<data>839</data>
+			<data>617</data>
+			<data>740</data>
+			<data>900</data>
+			<data>713</data>
+			<data>549</data>
+			<data>559</data>
+	</press>
+
+</chart>
